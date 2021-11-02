@@ -1,34 +1,34 @@
 {
-  "user":[
+  "UserInfo":[
     {
-      "userid": "0"
-      "username": "pascal045"
-      "steamid64": "76561198072483673"
-      "discordid": "NULL"
-      "whitelisted": "1"
-      "whitelistattempt": "1"
-      "adminlvl": "9"
-      "xcoin": "0"
+      "Userid": "0"
+      "Username": "pascal045"
+      "Steamid64": "76561198072483673"
+      "Discordid": "NULL"
+      "Whitelisted": "1"
+      "Whitelistattempt": "1"
+      "Adminlvl": "9"
+      "Xcoin": "0"
     },
     {
-      "userid": "1"
-      "username": "maratas"
-      "steamid64": "76561198056259622"
-      "discordid": "NULL"
-      "whitelisted": "1"
-      "whitelistattempt": "1"
-      "adminlvl": "9"
-      "xcoin": "0"
+      "Userid": "1"
+      "Username": "maratas"
+      "Steamid64": "76561198056259622"
+      "Discordid": "NULL"
+      "Whitelisted": "1"
+      "Whitelistattempt": "1"
+      "Adminlvl": "9"
+      "Xcoin": "0"
     },
     {
-      "userid": "2"
-      "username": "letspatrick"
-      "steamid64": "76561198804634640"
-      "discordid": "NULL"
-      "whitelisted": "1"
-      "whitelistattempt": "1"
-      "adminlvl": "9"
-      "xcoin": "0"
+      "Userid": "2"
+      "Username": "letspatrick"
+      "Steamid64": "76561198804634640"
+      "Discordid": "NULL"
+      "Whitelisted": "1"
+      "Whitelistattempt": "1"
+      "Adminlvl": "9"
+      "Xcoin": "0"
     }
   ]
 }
